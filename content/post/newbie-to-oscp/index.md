@@ -4,7 +4,7 @@ categories = ["Security"]
 date = 2020-03-08T01:21:16Z
 description = ""
 draft = false
-featured_image = "https://images.unsplash.com/photo-1533709752211-118fcaf03312?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=2000&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ"
+image = "https://images.unsplash.com/photo-1533709752211-118fcaf03312?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=2000&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ"
 slug = "from-newbie-to-oscp-in-100-days"
 summary = "This is yet another OSCP story among the many other stories that are out there. It captures my journey from being a newbie to OSCP certified in roughly 100 days"
 tags = ["Security"]

@@ -4,7 +4,7 @@ categories = ["Technology", "Security"]
 date = 2020-07-14T07:23:40Z
 description = ""
 draft = false
-featured_image = "https://images.unsplash.com/photo-1484557052118-f32bd25b45b5?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=2000&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ"
+image = "https://images.unsplash.com/photo-1484557052118-f32bd25b45b5?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=2000&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ"
 slug = "so-you-want-your-kali-run-in-the-cloud"
 summary = "Step by step instruction on migrating an existing Kali Linux VM to Google Cloud"
 tags = ["Technology", "Security"]

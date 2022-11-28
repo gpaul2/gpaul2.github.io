@@ -4,7 +4,7 @@ categories = ["Security"]
 date = 2020-05-31T23:13:33Z
 description = ""
 draft = false
-featured_image = "https://images.unsplash.com/photo-1489533119213-66a5cd877091?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=2000&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ"
+image = "https://images.unsplash.com/photo-1489533119213-66a5cd877091?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=2000&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ"
 slug = "why-oscp"
 summary = "Reasons for pursuing OSCP may vary from person to person. However, it is important to think of those reasons and understand if it justifies the effort. "
 tags = ["Security"]

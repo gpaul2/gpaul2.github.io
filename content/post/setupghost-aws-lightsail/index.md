@@ -4,7 +4,7 @@ categories = ["Technology"]
 date = 2020-03-15T23:57:57Z
 description = ""
 draft = false
-featured_image = "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=2000&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ"
+image = "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=2000&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ"
 slug = "setting-up-ghost-using-aws-lightsail"
 summary = "A how to article on setting up Ghost using AWS Lightsail"
 tags = ["Technology"]

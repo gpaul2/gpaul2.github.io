@@ -4,7 +4,7 @@ categories = ["Security"]
 date = 2022-02-07T04:58:36.000Z
 description = ""
 draft = false
-featured_image = "https://images.unsplash.com/photo-1451471016731-e963a8588be8?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=2000&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ"
+image = "https://images.unsplash.com/photo-1475506631979-72412c606f4d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
 slug = "defender-mindset"
 summary = "What sets apart a great defender from a good defender? This post examines the mindset of a defender."
 tags = ["Security"]
