@@ -13,7 +13,7 @@ title = "Why OSCP?"
 +++
 
 
-This post is a prequel to my earlier post  _[From newbie to OSCP in 100 days](https://www.geoji-paul.com/from-newbie-to-oscp-in-100-days/) _ and in this post, I will go into the rationale behind why I went after OSCP certification
+This post is a prequel to my earlier post  _[From newbie to OSCP in 100 days](https://www.geoji-paul.com/post/from-newbie-to-oscp-in-100-days/) _ and in this post, I will go into the rationale behind why I went after OSCP certification
 
 _**TL;DR:** Reasons for pursuing OSCP may vary from person to person. However, it is important to think of those reasons and understand if it justifies the effort. For me, the reasons were to learn to think like an attacker, experience real world security gaps, and finally to build confidence around learning and applying new skills._
 
