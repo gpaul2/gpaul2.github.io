@@ -2,8 +2,8 @@ baseurl: 'https://gpaul2.github.io/'
 title: Geoji's Blog
 theme: hugo-theme-cleanwhite
 languageCode: en-us
-disqusShortname: 'www-geoji-paul-com'
-googleAnalytics: 'G-NBEYQ6NM81'
+#disqusShortname: 'www-geoji-paul-com'
+#googleAnalytics: 'G-NBEYQ6NM81'
 preserveTaxonomyNames: true
 paginate: 5
 hasCJKLanguage: true
@@ -14,7 +14,7 @@ outputs:
 params:
   header_image: img/defender.jpg
   SEOTitle: Geoji's Blog
-  description: 'This is a Blog--- edit later'
+  description: 'This is a Blog about Security, Technology and Leadership'
   keyword: >-
     security, geoji, blog, leadership, technology
   slogan: Hi, I'm Geoji. I love learning technology and cyber security. This blog is a collection of technology, security and leadership thoughts. Views are mine.
